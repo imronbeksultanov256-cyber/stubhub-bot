@@ -1,0 +1,31 @@
+{
+  "PROMO10": {
+    "discount": 10,
+    "expires": "2026-03-31",
+    "limit": 25,
+    "used": 2
+  },
+  "STUB5": {
+    "discount": 5,
+    "expires": "2026-05-31",
+    "limit": 50,
+    "used": 0
+  },
+  "WELCOME20": {
+    "discount": 20,
+    "expires": "2026-03-25",
+    "limit": 30,
+    "used": 0
+  },
+  "8MARCH": {
+    "discount": 25,
+    "expires": "2026-03-15",
+    "limit": 15,
+    "used": 3
+  },
+  "PENIS": {
+    "discount": 25,
+    "expires": "2026-03-15",
+    "limit": 15,
+    "used": 3
+}
